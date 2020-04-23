@@ -1,6 +1,5 @@
 # inspectionbrowser
-jkant@bu.edu
- 
+
 Python and R (tidy) framework for collecting, mining, sorting and analyzing 
 public health data on MA prisons, jails and detention centers.
  
